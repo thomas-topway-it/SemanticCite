@@ -72,7 +72,7 @@
 		};
 
 		/**
-		 * Initialize Tippy tooltips
+		 * @since 1.0
 		 */
 		$.map(configuration.showTooltipForCitationReference, function (selector) {
 			switch (selector) {
